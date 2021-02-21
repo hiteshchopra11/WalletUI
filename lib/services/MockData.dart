@@ -1,4 +1,4 @@
-import 'package:design/models/Account.dart';
+import './../models/Account.dart';
 import 'package:flutter/material.dart';
 
 final List<Account> accountList = [
